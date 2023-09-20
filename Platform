@@ -1,0 +1,39 @@
+[
+   {
+        "id_platform": "175e8aa0-7b68-4c97-96d3-ece3c7fe03da",
+        "platform_name": "Website",
+        "createdBy": "0",
+        "updatedBy": "0",
+        "createdAt": "2023-09-10T19:10:30.199783",
+        "updatedAt": "0001-01-01T00:00:00",
+        "flag_active": true
+      },
+      {
+        "id_platform": "1f6b9f1e-1f60-476d-bca4-c8c0501ef9a8",
+        "platform_name": "RPA",
+        "createdBy": "0",
+        "updatedBy": "0",
+        "createdAt": "2023-09-12T15:39:15.538602",
+        "updatedAt": "0001-01-01T00:00:00",
+        "flag_active": true
+      },
+      {
+        "id_platform": "445fddb7-3fd3-4c5a-a91d-d498ff8267c1",
+        "platform_name": "AI",
+        "createdBy": "0",
+        "updatedBy": "0",
+        "createdAt": "2023-09-10T19:10:41.507506",
+        "updatedAt": "0001-01-01T00:00:00",
+        "flag_active": true
+      },
+      {
+        "id_platform": "7282c71e-c855-42ca-b653-0dd135df0abe",
+        "platform_name": "RPA",
+        "createdBy": "0",
+        "updatedBy": "0",
+        "createdAt": "2023-09-10T19:10:50.208927",
+        "updatedAt": "0001-01-01T00:00:00",
+        "flag_active": true
+      }
+  
+]
